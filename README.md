@@ -1,2 +1,2 @@
 # leo-resolusi
-repo untuk resolusi ke depannya
+repo tes github
